@@ -12,7 +12,6 @@ class Project(scaffold.Java):
     def jdk_version(self): return 17
     def has_javadoc(self): return False
     def stagean_annotations(self): return True
-    def has_website(self): return False
     
     def dependencies(self):
         yield from super().dependencies()

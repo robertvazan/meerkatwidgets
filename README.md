@@ -7,13 +7,23 @@
 [![Build status](https://github.com/robertvazan/meerkatwidgets/workflows/build/badge.svg)](https://github.com/robertvazan/meerkatwidgets/actions/workflows/build.yml)
 [![Test coverage](https://codecov.io/gh/robertvazan/meerkatwidgets/branch/master/graph/badge.svg)](https://codecov.io/gh/robertvazan/meerkatwidgets)
 
-Collection of simple reactive HTML widgets for PushMode apps.
+Meerkat Widgets is a Java library of simple HTML widgets for [PushMode](https://pushmode.machinezoo.com/) applications.
+All widgets are reactive via [Hookless](https://hookless.machinezoo.com/). Default CSS is provided.
+Widgets are designed to require minimal configuration. Single input value can be often obtained via one-liner.
+
+More on [homepage](https://meerkatwidgets.machinezoo.com/).
 
 ## Status
 
 Experimental. [Stagean](https://stagean.machinezoo.com/) is used to track progress on class and method level.
 
+## Getting started
+
+See [homepage](https://meerkatwidgets.machinezoo.com/).
+
 ## Documentation
+
+* [Homepage](https://meerkatwidgets.machinezoo.com/)
 
 There is no javadoc yet. See [source code](src/main/java/com/machinezoo/meerkatwidgets) for available APIs.
 
